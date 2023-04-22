@@ -59,37 +59,4 @@ if question.lower() == "india":
 else:
     print("Sorry the answer is India  ")  
 
-# question= input(" ")  
-# total_ques+=1 
-# if question.lower() == "":
-#     print("Correct")
-#     score +=1
-# else:
-#     print("Sorry the answer is  ")  
-
-# question= input(" ")  
-# total_ques+=1 
-# if question.lower() == "":
-#     print("Correct")
-#     score +=1
-# else:
-#     print("Sorry the answer is  ")  
-
-# question= input(" ")  
-# total_ques+=1 
-# if question.lower() == "":
-#     print("Correct")
-#     score +=1
-# else:
-#     print("Sorry the answer is  ")  
-
-# question= input(" ")  
-# total_ques+=1 
-# if question.lower() == "":
-#     print("Correct")
-#     score +=1
-# else:
-#     print("Sorry the answer is  ")  
-
-
 print("Congratulation "+ name +" you have got " + str(score) + " question right out of " + str(total_ques))
